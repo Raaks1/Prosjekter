@@ -14,8 +14,8 @@ function RNG() {
 function Rando() {
   document.getElementById("numero").innerHTML =
   Math.floor((Math.random() * 100 + 1));
-  clearInterval(newNumbr);
-  setTimeout(setInterval(test2, 5000), 10000);
+  /*clearInterval(newNumbr);*/
+  /*setTimeout(setInterval(test2, 5000), 10000);*/
  
   
   
